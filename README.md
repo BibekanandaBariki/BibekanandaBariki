@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@bibek_bariki" target="blank"><img src="https://img.shields.io/twitter/follow/@bibek_bariki?logo=twitter&style=for-the-badge" alt="@bibek_bariki" /></a> </p>
 
-- 🔭 I’m currently working on [**SmartDocGen** – AI-Powered Legal Document Generator](https://smartdocgen.onrender.com)
+- 🚀 I recently completed [**SmartDocGen** – AI-Powered Legal Document Generator](https://smartdocgen.onrender.com)
 
-- 🌱 I’m currently learning **Advanced Generative AI Techniques**
+- 🔭 I’m currently working on [**NeoFace** – Automated Attendance System Using Face Recognition](https://github.com/BibekanandaBariki/NeoFace)
+
+- 🌱 I’m currently learning **Advanced Generative AI Techniques** and **Deep Learning Optimization**
 
 - 👯 I’m looking to collaborate on **AI & Machine Learning projects**
 
-- 🤝 I’m looking for help with **Advanced Generative AI & Deep Learning techniques**, **Full Stack Development best practices**
+- 🤝 I’m looking for help with **Advanced Generative AI**, **Full Stack Integration**, and **Real-time Face Recognition Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BibekanandaBariki](https://github.com/BibekanandaBariki)
 
